@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Oh_My_Code_Edu_Bud
+</name>
+</assembly>
+<members>
+<member name="T:Oh_My_Code_Edu_Bud.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.Content_Creation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.invisible">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.Logo_OMC_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.menu_strip_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.photo_2022_11_09_15_27_39">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.SAP">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.view">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Oh_My_Code_Edu_Bud.My.Resources.Resources.VP_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Course_DesciptionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Student_ProfileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Subscription_recordDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Tutor_ProfileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Course_DesciptionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Student_ProfileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Subscription_recordRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Tutor_ProfileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Course_DesciptionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Student_ProfileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Subscription_recordRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSet.Tutor_ProfileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.Course_DesciptionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.Student_ProfileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.Subscription_recordTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.Tutor_ProfileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Oh_My_Code_Edu_Bud.OmcEduBudDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Oh_My_Code_Edu_Bud.OmcEduBudDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Oh_My_Code_Edu_Bud.OmcEduBudDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.UpdateAll(Oh_My_Code_Edu_Bud.OmcEduBudDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Oh_My_Code_Edu_Bud.OmcEduBudDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

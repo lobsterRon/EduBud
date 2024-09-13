@@ -1,0 +1,147 @@
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe.config
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.AssemblyReference.cache
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.SuggestedBindingRedirects.cache
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form1.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Resources.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.GenerateResource.cache
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.CoreCompileInputs.cache
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form2.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form3.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form10.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form4.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form5.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form6.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form7.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form8.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form9.resources
+C:\Users\afatl\OneDrive\Desktop\UTP management\Visual Programming\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form11.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe.config
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.AssemblyReference.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.SuggestedBindingRedirects.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form1.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form10.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form11.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form2.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form3.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form4.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form5.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form7.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form8.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form9.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Resources.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.GenerateResource.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.CoreCompileInputs.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentHomePage.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.TutoHomePage.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\bin\Debug\OmcEduBud.accdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AboutBoxEduBud.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.CourseView.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentSubscription.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\OmcEduBud.accdb
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe.config
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AboutBoxEduBud.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.CourseView.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form1.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form10.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form11.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form2.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form3.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form4.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form5.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form7.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form8.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form9.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Resources.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentHomePage.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentSubscription.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.TutoHomePage.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.SplashScreen1.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminList.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminView.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminLogin.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\OmcEduBud.accdb
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe.config
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AboutBoxEduBud.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminList.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminLogin.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminView.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.CourseView.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form1.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form10.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form11.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form2.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form3.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form4.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form5.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form7.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form8.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form9.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.SplashScreen1.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Resources.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentHomePage.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentSubscription.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.TutoHomePage.resources
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\ASUS\OneDrive - Universiti Teknologi PETRONAS\Visual Programming\OMC\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\OmcEduBud.accdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe.config
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.pdb
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\bin\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.AssemblyReference.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.SuggestedBindingRedirects.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AboutBoxEduBud.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminList.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminLogin.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.AdminView.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.CourseView.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form1.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form10.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form11.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form2.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form3.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form4.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form5.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form7.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form8.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Form9.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.SplashScreen1.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.Resources.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentHomePage.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.StudentSubscription.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.TutoHomePage.resources
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.GenerateResource.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.vbproj.CoreCompileInputs.cache
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.exe
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.xml
+C:\Users\afatl\OneDrive\Desktop\Oh_My_Code_Edu_Bud\Oh_My_Code_Edu_Bud\obj\Debug\Oh_My_Code_Edu_Bud.pdb
